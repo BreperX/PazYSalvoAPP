@@ -5,7 +5,7 @@ Instalación
 Clona el repositorio en tu máquina local:
 bash
 Copiar código
-git clone https://github.com/tuusuario/PazYSalvoAPP.git
+git clone https://github.com/BreperX/PazYSalvoAPP.git
 Configura la cadena de conexión a la base de datos en el archivo appsettings.json.
 Configuración
 Base de Datos
